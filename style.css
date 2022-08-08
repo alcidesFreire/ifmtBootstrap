@@ -1,5 +1,4 @@
 *{
-   
     margin: 0;
     padding: 0;
 }
@@ -44,8 +43,13 @@ background-color: black;
     padding: 50px;
 }
 #fthr{
-    height: px;
+   
     border: 1px dashed;
     border-color: rgb(255, 255, 255);
     size: 50px;
 }
+#logo-if:hover{
+    cursor: pointer;
+}
+
+  
